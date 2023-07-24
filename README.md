@@ -12,8 +12,8 @@ This is the solution for the frontend mentor QR-CODE-COMPONENT
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jmmaglonzo/Frontend-mentor-Qr-Code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/jmmaglonzo/Frontend-mentor-Qr-Code)
+- Live Site URL: (https://qrcode-lonzo.netlify.app/)
 
 ## My process
 
