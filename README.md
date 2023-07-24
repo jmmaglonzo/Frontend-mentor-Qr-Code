@@ -8,7 +8,7 @@ This is the solution for the frontend mentor QR-CODE-COMPONENT
 
 ### Screenshot
 
-![](../../../Desktop/Screenshots/qrcode.png)
+![](../qr-code-component-main/images/qrcode.png)
 
 ### Links
 
